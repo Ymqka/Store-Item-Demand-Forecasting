@@ -1,1 +1,11 @@
-# Store-Item-Demand-Forecasting
+Задача: The objective of this competition is to predict 3 months of item-level sales data at different store locations.
+само соревнование: https://www.kaggle.com/c/demand-forecasting-kernels-only
+________________________________________________________________________________
+Дополнительные комментарии: Т.к нельзя прислать ответ через загрузку с файла с ответами, я сделал доп. файл kernel, нужно загружать его.
+___________________________________________________________________________________
+
++ kernel.ipynb - сам файл загрузки для проверки
++ store items.ipynb - для проверки на локальном компьюетере
++ data - папка с данными
++ test.csv - данные для предсказания
++ train.csv - данные, для обучении модели
